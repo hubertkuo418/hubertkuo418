@@ -46,3 +46,4 @@
 
 ## 📫 Contact
 - GitHub: https://github.com/hubertkuo418
+- Email: hubertkuo418@gmail.com
