@@ -64,12 +64,6 @@ System-level programming project focusing on performance and memory efficiency.
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hubertkuo418&show_icons=true&theme=default&hide_border=true)
-
----
-
 ## Contact
 
 - Email: hubertkyo418@gmail.com
