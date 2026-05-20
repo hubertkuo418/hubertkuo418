@@ -1,8 +1,8 @@
 # Hi, I'm Hubert
 
-Mathematics student → transitioning into Computer Science  
-Focused on Machine Learning, Computer Vision, and AI System
-Building a portfolio for software / AI / semiconductor internships
+- Mathematics student → transitioning into Computer Science  
+- Focused on Machine Learning, Computer Vision, and AI System
+- Building a portfolio for software / AI / semiconductor internships
 
 ---
 
