@@ -66,7 +66,11 @@ System-level programming project focusing on performance and memory efficiency.
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hubertkuo418&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hubertkuo418&show_icons=true&count_private=true&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hubertkuo418&layout=compact&hide_border=true)
+
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=hubertkuo418)
 
 ---
 
